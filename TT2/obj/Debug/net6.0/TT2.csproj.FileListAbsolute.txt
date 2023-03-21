@@ -1,0 +1,5 @@
+D:\GIT-REPO\ForHomeWork\Four\T1\TT2\obj\Debug\net6.0\TT2.csproj.AssemblyReference.cache
+D:\GIT-REPO\ForHomeWork\Four\T1\TT2\obj\Debug\net6.0\TT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-REPO\ForHomeWork\Four\T1\TT2\obj\Debug\net6.0\TT2.AssemblyInfoInputs.cache
+D:\GIT-REPO\ForHomeWork\Four\T1\TT2\obj\Debug\net6.0\TT2.AssemblyInfo.cs
+D:\GIT-REPO\ForHomeWork\Four\T1\TT2\obj\Debug\net6.0\TT2.csproj.CoreCompileInputs.cache
